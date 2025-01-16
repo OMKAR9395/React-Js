@@ -7,3 +7,9 @@ First Use
 npx create-react-app <Folder Name>
 
 ======================================================================================
+
+Using Vite-React app Install
+npm create vite@latest
+cd your-project-name
+npm install
+npm run dev
